@@ -17,7 +17,7 @@ Take a look at the top 10 most popular foods around the globe. If you sign in, y
 
 Project 3 provided me with an amazing opportunity to collaborate with two talented team members to build my first full-stack application. Our goal was to create a website where users could explore the top 10 global foods, add them to their favorites, write reviews, or even create their own custom foods. Working with my team members was a delightful and fulfilling experience, and this project turned out to be one of my favorite projects during my time at GA. I am interested in working on similar projects in my future career.
 
-You can access the deployed project through this [link](). However, registration is required for most actions on the website, as they are locked before authentication. Alternatively, you can use the login credentials of a premade user, which are "user@gmail.com" for email and "userPassword" for the password.
+You can access the deployed project through this [link](https://foods-paradise.netlify.app/). However, registration is required for most actions on the website, as they are locked before authentication. Alternatively, you can use the login credentials of a premade user, which are "user@gmail.com" for email and "userPassword" for the password.
 
 <img width="879" alt="Screenshot 2023-05-17 at 13 14 38" src="https://github.com/fsmali/top-ten-food/assets/116434578/ada8542d-9857-447c-ae9d-04b309fb1a34">
 
